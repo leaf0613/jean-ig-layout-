@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JEAN IG DEMO</title>
+
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+<body>
+    
+    <nav class="navbar" >
+       <div class="nav-wrapper">
+            <img src="img/logo.PNG" class="brand-img" alt="">
+            <input type="text" class="search-box" placeholder="Search...">
+            <div class="nav-items">
+                <img src="img/home.PNG" class="icon" alt="">
+                <img src="img/messenger.PNG" class="icon" alt="">
+                <img src="img/add.PNG" class="icon" alt="">
+                <img src="img/explore.PNG" class="icon" alt="">
+                <img src="img/like.PNG" class="icon" alt="">
+                <div class="icon user-profile"></div>
+
+            </div>
+        </div> 
+    </nav>
+
+    <section class="main">
+        <div class="wrapper">
+            <div class="left-col">
+                <div class="status-wrapper">
+                    <div class="status-card">
+                        <div class="profile-pic"><img src="img/profile 1 snoo.jpg" alt=""></div>
+                        <p class="username">snoonoo_1</p>
+                    </div>
+                    <div class="status-card">
+                        <div class="profile-pic"><img src="img/profile 2 snoo.jpg" alt=""></div>
+                        <p class="username">snoonoo_2</p>
+                    </div>
+                    <div class="status-card">
+                        <div class="profile-pic"><img src="img/profile 3 snoo.jpg" alt=""></div>
+                        <p class="username">snoonoo_3</p>
+                    </div>
+                    <div class="status-card">
+                        <div class="profile-pic"><img src="img/profile 4 snoo.jpg" alt=""></div>
+                        <p class="username">snoonoo_4</p>
+                    </div>
+                    <div class="status-card">
+                        <div class="profile-pic"><img src="img/profile 5 snoo.jpg" alt=""></div>
+                        <p class="username">snoonoo_5</p>
+                    </div>
+                    <div class="status-card">
+                        <div class="profile-pic"><img src="img/profile 6 snoo.jpg" alt=""></div>
+                        <p class="username">snoonoo_6</p>
+                    </div>
+                    <div class="status-card">
+                        <div class="profile-pic"><img src="img/profile 7 snoo.jpg" alt=""></div>
+                        <p class="username">snoonoo_7</p>
+                    </div>
+                    <div class="status-card">
+                        <div class="profile-pic"><img src="img/profile 8 snoo.jpg" alt=""></div>
+                        <p class="username">snoonoo_8</p>
+                    </div>
+                    <div class="status-card">
+                        <div class="profile-pic"><img src="img/profile 9 snoo.jpg" alt=""></div>
+                        <p class="username">snoonoo_9</p>
+                    </div>
+                    <div class="status-card">
+                        <div class="profile-pic"><img src="img/profile 10 snoo.jpg" alt=""></div>
+                        <p class="username">snoonoo_10</p>
+                    </div>
+                    <div class="status-card">
+                        <div class="profile-pic"><img src="img/profile 11 snoo.jpg" alt=""></div>
+                        <p class="username">snoonoo_11</p>
+                    </div>
+                    <div class="status-card">
+                        <div class="profile-pic"><img src="img/profile 12 snoo.jpg" alt=""></div>
+                        <p class="username">snoonoo_12</p>
+                    </div>
+                    <div class="status-card">
+                        <div class="profile-pic"><img src="img/profile 13 snoo.jpg" alt=""></div>
+                        <p class="username">snoonoo_13</p>
+                    </div>
+                
+                </div>
+                
+                <!--post 1-->
+                <div class="post">
+                    <div class="info">
+                        <div  class="user">
+                            <div  class="profile-pic"><img src="img/profile 1 snoo.jpg" alt=""></div>
+                            <p class="username">snoonoo daily</p>
+                        </div>
+                        <img src="img/option.PNG" class="options" alt="">
+                    </div>
+                    <img src="img/cover 1 snoo.jpg" class="post-img" alt="">
+                    <div class="post-content">
+                        <div class="reaction-wrapper">
+                            <img src="img/like.PNG" class="icon" alt="">
+                            <img src="img/comment.PNG" class="icon" alt="">
+                            <img src="img/send.PNG" class="icon" alt="">
+                            <img src="img/save.PNG" class="save icon" alt="">
+                        </div>
+                        <p class="likes">1000 likes</p>
+                        <p class="description"><span>snoonoo_1</span> Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus.</p>
+                        <p class="post-time">2 hours ago</p>
+                    </div>
+                    <div class="comment-wrapper">
+                        <img src="img/smile.PNG" class="icon" alt="">
+                        <input type="text" class="comment-box" placeholder="Add a comment...">
+                        <button class="post-btn">Post</button>
+                    </div>
+                </div>
+
+                <!--post 2-->
+                <div class="post">
+                    <div class="info">
+                        <div  class="user">
+                            <div  class="profile-pic"><img src="img/profile 2 snoo.jpg" alt=""></div>
+                            <p class="username">snoonoo in JAPAN</p>
+                        </div>
+                        <img src="img/option.PNG" class="options" alt="">
+                    </div>
+                    <img src="img/cover 2 snoo.jpg" class="post-img" alt="">
+                    <div class="post-content">
+                        <div class="reaction-wrapper">
+                            <img src="img/like.PNG" class="icon" alt="">
+                            <img src="img/comment.PNG" class="icon" alt="">
+                            <img src="img/send.PNG" class="icon" alt="">
+                            <img src="img/save.PNG" class="save icon" alt="">
+                        </div>
+                        <p class="likes">1234 likes</p>
+                        <p class="description"><span>snoonoo_2</span> Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus.</p>
+                        <p class="post-time">4 hours ago</p>
+                    </div>
+                    <div class="comment-wrapper">
+                        <img src="img/smile.PNG" class="icon" alt="">
+                        <input type="text" class="comment-box" placeholder="Add a comment...">
+                        <button class="post-btn">Post</button>
+                    </div>
+                </div>
+
+                 <!--post 3-->
+                 <div class="post">
+                    <div class="info">
+                        <div  class="user">
+                            <div  class="profile-pic"><img src="img/profile 3 snoo.jpg" alt=""></div>
+                            <p class="username">COFFEE noonoo</p>
+                        </div>
+                        <img src="img/option.PNG" class="options" alt="">
+                    </div>
+                    <img src="img/cover 3 snoo.jpg" class="post-img" alt="">
+                    <div class="post-content">
+                        <div class="reaction-wrapper">
+                            <img src="img/like.PNG" class="icon" alt="">
+                            <img src="img/comment.PNG" class="icon" alt="">
+                            <img src="img/send.PNG" class="icon" alt="">
+                            <img src="img/save.PNG" class="save icon" alt="">
+                        </div>
+                        <p class="likes">520 likes</p>
+                        <p class="description"><span>snoonoo_3</span> Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus.</p>
+                        <p class="post-time">3 hours ago</p>
+                    </div>
+                    <div class="comment-wrapper">
+                        <img src="img/smile.PNG" class="icon" alt="">
+                        <input type="text" class="comment-box" placeholder="Add a comment...">
+                        <button class="post-btn">Post</button>
+                    </div>
+                </div>
+                
+                <!--post 4-->
+                <div class="post">
+                    <div class="info">
+                        <div  class="user">
+                            <div  class="profile-pic"><img src="img/profile 4 snoo.jpg" alt=""></div>
+                            <p class="username">my SPRIIIIING</p>
+                        </div>
+                        <img src="img/option.PNG" class="options" alt="">
+                    </div>
+                    <img src="img/cover 4 snoo.jpg" class="post-img" alt="">
+                    <div class="post-content">
+                        <div class="reaction-wrapper">
+                            <img src="img/like.PNG" class="icon" alt="">
+                            <img src="img/comment.PNG" class="icon" alt="">
+                            <img src="img/send.PNG" class="icon" alt="">
+                            <img src="img/save.PNG" class="save icon" alt="">
+                        </div>
+                        <p class="likes">1314 likes</p>
+                        <p class="description"><span>snoonoo_4</span> Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus.</p>
+                        <p class="post-time">5 hours ago</p>
+                    </div>
+                    <div class="comment-wrapper">
+                        <img src="img/smile.PNG" class="icon" alt="">
+                        <input type="text" class="comment-box" placeholder="Add a comment...">
+                        <button class="post-btn">Post</button>
+                    </div>
+                </div>
+
+            </div>
+            <div class="right-col">
+                <!--profile-card main-->
+                <div class="profile-card">
+                    <div class="profile-pic">
+                        <img src="img/profile-pic.png" alt="">
+                    </div>
+                    <div>
+                        <p class="username">snoonoopypy</p>
+                        <p class="sub-text">Ima Dog</p>
+                    </div>
+                    <button class="action-btn">Switch</button>
+                </div>
+
+                <!--profile-card 9-->
+                <div class="profile-card">
+                    <div class="profile-pic">
+                        <img src="img/profile 9 snoo.jpg" alt="">
+                    </div>
+                    <div>
+                        <p class="username">snoonoo_9</p>
+                        <p class="sub-text">ribbon forever</p>
+                    </div>
+                    <button class="action-btn">Follow</button>
+                </div>
+
+                <!--profile-card 10-->
+                <div class="profile-card">
+                    <div class="profile-pic">
+                        <img src="img/profile 10 snoo.jpg" alt="">
+                    </div>
+                    <div>
+                        <p class="username">snoonoo_10</p>
+                        <p class="sub-text">WOOWEE</p>
+                    </div>
+                    <button class="action-btn">Follow</button>
+                </div>
+
+                <!--profile-card 11-->
+                <div class="profile-card">
+                    <div class="profile-pic">
+                        <img src="img/profile 11 snoo.jpg" alt="">
+                    </div>
+                    <div>
+                        <p class="username">snoonoo_11</p>
+                        <p class="sub-text">~~~</p>
+                    </div>
+                    <button class="action-btn">Follow</button>
+                </div>
+
+                <!--profile-card 12-->
+                <div class="profile-card">
+                    <div class="profile-pic">
+                        <img src="img/profile 12 snoo.jpg" alt="">
+                    </div>
+                    <div>
+                        <p class="username">snoonoo_12</p>
+                        <p class="sub-text">so what</p>
+                    </div>
+                    <button class="action-btn">Follow</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+</body>
+</html>
